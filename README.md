@@ -25,9 +25,9 @@
 
 ## 🛠️ Tools
 
-### **Development Tools I Use:**
+### **Love Visual Studio and my Improved Notepad with Plugins:**
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,electron,supabase" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
 </p>
 
 ### **My Operating System:**

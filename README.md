@@ -6,6 +6,8 @@
 
 ### 🚀 About Me
 I started with **JavaScript** back in 8th grade and have been continuing to learn since then. Currently, I am learning/attempting at exploring js past websites and more into node.
+
+Even earlier than that in 6th Grade, I began my programming journey with Scratch.
 ---
 
 ### **Web Development**

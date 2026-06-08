@@ -5,20 +5,19 @@
 # 👋 Hello, I'm ice!
 
 ### 🚀 About Me
-I started with **JavaScript** back in 8th grade and have been continuing to learn since then. Currently, I am learning **C#** to start **Unity Game Development** and Modding.
-
+I started with **JavaScript** back in 8th grade and have been continuing to learn since then. Currently, I am learning/attempting at exploring js past websites and more into node.
 ---
 
-### **Web Development** 🌐
+### **Web Development**
 *I use Javascript, CSS, and HTML 5 for almost all of my Websites.*
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### **Learning & Game Development/Modding** 🎮
-*Currently trying to learn C# to build and mod games made in Unity.*
+### **Learning Game Development**
+*Currently trying to make a 2D Backrooms Horror Game with Phaser.*
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=cs,unity" />
+    <img src="https://skillicons.dev/icons?i=nodejs,electron" />
 </p>
 
 ---

@@ -9,7 +9,7 @@ I started with **JavaScript** back in 8th grade and have been continuing to lear
 ---
 
 ### **Web Development**
-*I use Javascript, CSS, and HTML 5 for almost all of my Websites.*
+*I like making websites 👍*
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>

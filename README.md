@@ -8,7 +8,7 @@
 ### JS/TS, bit of C# and Python in the future.
 ---
 
-## Link Tree
+## Links
 <p align="left">
   <a href="https://www.youtube.com/@ice_the_person">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
